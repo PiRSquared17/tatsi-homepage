@@ -1,0 +1,32 @@
+username: 
+ip: 127.0.0.1
+summary: 
+languages: 
+text: =Activities and events=
+	
+	So what do we do at TaTSi? Read further to find out.
+	
+	==Training sessions==
+	
+	We have training sessions at Tamppi Areena and in Bommari (the bomb shelter) at Tampere University of Technology.
+	
+	
+	
+	==Gigs==
+	
+	==Courses==
+	
+	==Calendar==
+	
+	<html>
+	<div class="iframe-wrapper">
+	<iframe src="https://www.google.com/calendar/embed?mode=WEEK&amp;height=400&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=oqccpb0cemt0jlvv618ofccf94%40group.calendar.google.com&amp;color=%235229A3&amp;src=tatsi.sirkus%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FHelsinki" style=" border-width:0 " height="400" width="700" frameborder="0" scrolling="no"></iframe>
+	</div>
+	</html>
+	
+lastmajor: 25
+ts: 1386534987
+host: localhost.localdomain
+minor: 
+revision: 25
+keep-ts: 1386535280

@@ -1,0 +1,16 @@
+keep-ts: 1354203247
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [http://www.students.tut.fi<strong class="changes">/~tatsi</strong>/cgi-bin/<strong class="changes">odd</strong>/tatsi.pl?action=index Sivukartta]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [http://www.students.tut.fi/cgi-bin/<strong class="changes">run/tatsi</strong>/tatsi.pl?action=index Sivukartta]</p></div>
+ts: 1354203247
+text: [http://www.students.tut.fi/cgi-bin/run/tatsi/tatsi.pl?action=index Sivukartta]
+	
+lastmajor: 4
+username: 
+summary: [localhost/~pretseli/cgi-bin/odd/tatsi.pl?action=index Sivukartta]
+ip: 92.231.48.140
+host: g231048140.adsl.alicedsl.de
+revision: 4
+diff-major: 1
+minor: 

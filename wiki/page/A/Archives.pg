@@ -1,0 +1,25 @@
+diff-major: 1
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; =Archives=</p></div>
+host: localhost.localdomain
+blocks: <div class="crossbar"><html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+	</html>
+	</div><h1>Archives</h1><p>In the archives of TaTSi you can find mostly documents, but also other stuff from the past:</p><ul><li>[[Boards|Boards of trustees]] </li><li>[[Minutes|Minutes from general meetings]] </li><li>[[Rules|The rules of TaTSi]]</li></ul>
+revision: 2
+languages: 
+username: 
+ts: 1386535662
+summary: 
+text: =Archives=
+	
+	In the archives of TaTSi you can find mostly documents, but also other stuff from the past:
+	
+	*[[Boards|Boards of trustees]]
+	*[[Minutes|Minutes from general meetings]]
+	*[[Rules|The rules of TaTSi]]
+	
+keep-ts: 1386535662
+ip: 127.0.0.1
+flags: 0101010
+lastmajor: 2
+minor: 

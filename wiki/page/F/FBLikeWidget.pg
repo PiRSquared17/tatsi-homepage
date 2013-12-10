@@ -1,0 +1,16 @@
+username: 
+lastmajor: 12
+summary: 
+text: DeletedPage
+	
+	
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;html&gt;&lt;div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"&gt;&lt;/div&gt;<br />&lt; &lt;div&gt;&lt;/div&gt;<br />&lt; &lt;/html&gt;</p></div>
+ts: 1386536859
+languages: 
+keep-ts: 1386536859
+minor: 
+diff-major: 1
+revision: 12
+ip: 127.0.0.1
+host: localhost.localdomain

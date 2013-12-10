@@ -1,0 +1,36 @@
+revision: 3
+flags: 010
+blocks: <div class="crossbar"><html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+	</html>
+	</div><h1>Contact</h1><p>Obs.! All e-mail addresses are obfuscated to avoid spam. Please replace " [at] " with "@". <br /><br />The easiest way to reach the [[Board|Board of trustees]] is by e-mail:<br />tatsi-hallitus [at] listmail.tut.fi</p><p>Feedback and questions considering these web pages should be sent to our administrator:<br />ville.tolonen [at] tut.fi</p><p>Some of our members also hang out in IRC on channel:<br /><em>#tatsi@IRCnet</em></p><p>If you want to get news and notifications about our events by e-mail, you can <a href="https://listmail.tut.fi/mailman/listinfo/tatsi-pellet" class="url http outside">join our mailing list</a>.</p><p>We also have a <a href="https://www.facebook.com/groups/127354027377/" class="url http outside">group in Facebook</a>.</p>
+text: =Contact=
+	
+	Obs.! All e-mail addresses are obfuscated to avoid spam. Please replace " [at] " with "@". \\\\
+	
+	The easiest way to reach the [[Board|Board of trustees]] is by e-mail:\\
+	tatsi-hallitus [at] listmail.tut.fi
+	
+	Feedback and questions considering these web pages should be sent to our administrator:\\
+	ville.tolonen [at] tut.fi
+	
+	Some of our members also hang out in IRC on channel:\\
+	//#tatsi@IRCnet//
+	
+	If you want to get news and notifications about our events by e-mail, you can
+	[[https://listmail.tut.fi/mailman/listinfo/tatsi-pellet|join our mailing list]].
+	
+	We also have a
+	[[https://www.facebook.com/groups/127354027377/|group in Facebook]].
+	
+summary: 
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; =Contact=</p></div>
+languages: 
+lastmajor: 3
+minor: 
+keep-ts: 1386535644
+diff-major: 1
+ts: 1386535644
+ip: 127.0.0.1
+host: localhost.localdomain
+username: 

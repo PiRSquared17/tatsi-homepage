@@ -1,0 +1,22 @@
+diff-major: 1
+ip: 192.168.1.31
+host: tipa
+revision: 2
+minor: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[Jäseneksi <strong class="changes">Liittyminen</strong>]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[Jäseneksi <strong class="changes">liittyminen</strong>]]</p></div>
+ts: 1354128945
+keep-ts: 1354128945
+languages: 
+text: [[Yhteystiedot]]
+	
+	[[TaTSi]]
+	
+	[[Jäseneksi liittyminen]]
+	
+	[[Logo]]
+	
+lastmajor: 2
+summary: 
+username: 

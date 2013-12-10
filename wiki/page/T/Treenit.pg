@@ -1,0 +1,25 @@
+username: 
+summary: Välineharjoitukset: *Tiistaisin klo 17-18, Tamppi Areenalla Akrobatiaharjoitukset: *Tiistaisin klo 16-18, Bommarin tatamilla *Torstaisin . . .
+lastmajor: 2
+text: [[Välineet]]
+	
+	Välineharjoitukset:
+	
+	*Tiistaisin klo 17-18, Tamppi Areenalla
+	
+	Akrobatiaharjoitukset:
+	
+	*Tiistaisin klo 16-18, Bommarin tatamilla
+	*Torstaisin klo 16-18, Bommarin tatamilla
+	*Sunnuntaisin klo 14-16, Bommarin tatamilla
+	
+languages: 
+keep-ts: 1354024260
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[Välineet]]</p></div>
+ts: 1354024260
+minor: 
+ip: 127.0.0.1
+revision: 2
+host: localhost.localdomain
+diff-major: 1

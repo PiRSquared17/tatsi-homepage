@@ -1,0 +1,16 @@
+lastmajor: 2
+summary: <html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" . . .
+username: 
+text: <html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+	</html>
+	
+ts: 1386537067
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;div&gt;&lt;/div&gt;</p></div>
+languages: 
+keep-ts: 1386537067
+minor: 
+diff-major: 1
+host: localhost.localdomain
+ip: 127.0.0.1
+revision: 2

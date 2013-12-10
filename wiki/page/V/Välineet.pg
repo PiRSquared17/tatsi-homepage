@@ -1,0 +1,45 @@
+lastmajor: 3
+username: 
+summary: Kerhollemme on vuosien mittaan kertynyt mukavasti välineistöä: *Pallot **Mr. Babache, pehmeä, joustava kangas - 8 kpl **nahkainen - 6 kpl . . .
+text: Kerhollemme on vuosien mittaan kertynyt mukavasti välineistöä:
+	
+	* Pallot
+	** Mr. Babache, pehmeä, joustava kangas - 8 kpl
+	** nahkainen - 6 kpl
+	** 100mm kontaktipallo, valkoinen, pehmeä, muovi - 6 kpl
+	* Keilat
+	** Play PX3 circus, eri värisiä - 16 kpl
+	* Kepit
+	** puu, eri mittaisia - 9 kpl
+	** tuli - 1 kpl
+	* Renkaat:
+	** Mr. Babache, valkoinen/oranssi - 6 kpl
+	* Diabolo
+	** Hyrrä - erilaisia - 3 kpl
+	** Kepit (pari) - puu - 2 kpl
+	** kepit (pari) - alumiini - 1 kpl
+	* Flower Stick / Devil Stick:
+	** Flower stick - musta/kulta - 2 kpl
+	** Devil Stick - Mr. Babache, sininen - 1 kpl
+	** Devil Stick - Virheä, kimaltava - 1 kpl
+	** ohjauskeppi - 18 kpl
+	* Poit
+	** Poit (pari) - röyhelö - 2 kpl
+	** useita sukkapoita
+	* Yksipyöräinen - 20 tuumaa - 1 kpl
+	
+	Lisäksi jäsenillä on paljon omia välineitä, joita on myös mahdollista lainata. 
+	
+ts: 1354024528
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ** Play PX3, eri värisiä - 16 kpl</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ** Play PX3 <strong class="changes">circus</strong>, eri värisiä - 16 kpl</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">*</strong> puu, eri mittaisia - 9 kpl</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">**</strong> puu, eri mittaisia - 9 kpl</p></div>
+languages: 
+keep-ts: 1354024528
+minor: 
+diff-major: 1
+ip: 127.0.0.1
+revision: 3
+host: localhost.localdomain

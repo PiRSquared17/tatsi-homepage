@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Nov 29, 2013, 7:31:24 PM
+    Author     : pretseli
+*/
+
+a.logo {
+    float: left;
+    margin: 0.4em 1em;
+    padding: 0;
+}
+
+.wrapper, .header {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    background-color: #fbfb30;
+    background-repeat: repeat;
+    width: 99%;
+    height: 120px;
+    border-color: #c04700;
+    border-style: solid;
+    border-width: 0 2px 2px 2px;
+    border-bottom-left-radius: 70px 60px;
+    border-bottom-right-radius: 50% 100%;
+}
+
+.wrapper {
+    height: auto;
+    position: relative;
+    background-color: #FFFFFF;
+    top: 135px;
+    line-height: 1.4;
+    background: none;
+    border-left: 0px solid #c04700;
+    border-right: 0px solid #c04700;
+    padding-bottom: 15px;
+}
+
+div.header h1 {
+    display: none;
+}
+
+div.content {
+    top: 0;
+    background: #fbffdf;
+    border-radius: 40px;
+    border: #c04700 solid 2px;
+    position: relative;
+    padding: 10px 20px;
+    margin-left: 3px;
+    overflow: hidden;
+    margin-right: 3px;
+    left: 0;
+}
+
+div.content .crossbar {
+    position: relative;
+    display: inline-block;
+    float: right;
+    width: 270px;
+    min-height: 100px;
+    height: auto;
+}
+
+div.content .crossbar > div {
+    display: block;
+    width: 270px;
+    min-height: 200px;
+    border-left: #c04700 solid 2px;
+    border-bottom: #c04700 solid 2px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 18px;
+}
+
+/*div.wrapper > div.crossbar {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    right: 15px;
+    width: 280px;
+    height: 300px;
+    background: #fbffdf;
+    border-radius: 40px;
+    border: #c04700 solid 2px;
+    padding-left: 15px;
+}*/
+
+/* Responsive iFrame */
+.iframe-wrapper {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+.iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+div.header br,
+div.footer br,
+div.footer hr,
+span.edit a.comment,
+div.footer span.gotobar,
+div.footer,
+div.wrapper.close,
+div.footer span.time {
+    display: none;
+}

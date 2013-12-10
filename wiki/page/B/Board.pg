@@ -1,0 +1,19 @@
+username: 
+summary: TaTSin nykyinen hallitus (2012) ja yhteystiedot: |=Titteli|=Nimi|=sähköposti| |**Puheenjohtaja:**|Miia Ollila|etunimi.sukunimi@tut.fi| . . .
+lastmajor: 1
+ts: 1385649882
+languages: 
+text: TaTSin nykyinen hallitus (2012) ja yhteystiedot:
+	
+	|=Titteli|=Nimi|=sähköposti|
+	|**Puheenjohtaja:**|Miia Ollila|etunimi.sukunimi@tut.fi|
+	|**Varapuheenjohtaja:**|Petteri Tolonen|ville.sukunimi@tut.fi|
+	|**Rahastonhoitaja:**|Tommi Valkonen|etunimi.sukunimi@tut.fi|
+	|**Sihteeri:**|Mikke Tanska|etunimi.sukunimi@tut.fi|
+	|**Hallituksen jäsen:**|Tommi Henttinen|etunimi.sukunimi@tut.fi|
+	
+	
+minor: 
+host: localhost.localdomain
+ip: 127.0.0.1
+revision: 1

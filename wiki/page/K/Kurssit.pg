@@ -1,0 +1,17 @@
+minor: 
+host: localhost.localdomain
+ip: 127.0.0.1
+revision: 2
+diff-major: 1
+lastmajor: 2
+username: 
+summary: TaTSi järjestää alkeiskurssit yleensä syksyisin likkuntamessujen jälkeen. Kyseiset kurssit on tarkoitettu Tampereen Teknillisen Yliopiston . . .
+keep-ts: 1354025541
+languages: 
+ts: 1354025541
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; TaTSi järjestää alkeiskurssit yleensä syksyisin likkuntamessujen jälkeen. Kyseiset kurssit on tarkoitettu Tampereen Teknillisen Yliopiston opiskelijoille ja henkilökunnalle. </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; TaTSi järjestää alkeiskurssit <strong class="changes">akrobatiasta ja välinesirkuslajeista (jongleeraus, diabolo, poi)</strong> yleensä syksyisin likkuntamessujen jälkeen. Kyseiset kurssit on tarkoitettu Tampereen Teknillisen Yliopiston opiskelijoille ja henkilökunnalle. </p></div>
+text: TaTSi järjestää alkeiskurssit akrobatiasta ja välinesirkuslajeista (jongleeraus, diabolo, poi) yleensä syksyisin likkuntamessujen jälkeen. Kyseiset kurssit on tarkoitettu Tampereen Teknillisen Yliopiston opiskelijoille ja henkilökunnalle. 
+	Tiedotusta alkeiskursseista saa TaTSin [[https://www.facebook.com/groups/127354027377/|Facebook-sivun]] tai [[https://listmail.tut.fi/mailman/listinfo/tatsi-pellet|tatsi-pellet-sähköpostilistan kautta.]].
+	
