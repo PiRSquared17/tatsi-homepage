@@ -1,15 +1,5 @@
-diff-major: 
-revision: 2
-ip: 127.0.0.1
+lastmajor: 1
 host: localhost.localdomain
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">SÄÄNNÖT</strong> </p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Säännöt</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt;  </p></div>
-ts: 1354008545
-keep-ts: 1354008545
-languages: 
 text: Lajijaosto Tampereen Teekkarien Sirkuskerho
 	 
 	Tampereen Teekkarien Sirkuskerho (TaTSi)
@@ -221,5 +211,15 @@ text: Lajijaosto Tampereen Teekkarien Sirkuskerho
 	
 	
 username: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">SÄÄNNÖT</strong> </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Säännöt</strong></p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt;  </p></div>
+diff-major: 
+languages: 
+revision: 2
 summary: TaTSin Säännöt
-lastmajor: 1
+ts: 1354008545
+ip: 127.0.0.1
+minor: 1
+keep-ts: 1354008545

@@ -1,8 +1,3 @@
-ip: 127.0.0.1
-host: localhost.localdomain
-revision: 10
-diff-major: 1
-minor: 
 text: Kerhon [[Hallitus|hallitukseen]] saa yhteyden lähettämällä sähköpostia osoitteeseen:\\
 	tatsi-hallitus [ät] listmail.tut.fi
 	
@@ -18,12 +13,17 @@ text: Kerhon [[Hallitus|hallitukseen]] saa yhteyden lähettämällä sähköpost
 	TaTSilla on myös
 	[[https://www.facebook.com/groups/127354027377/|ryhmä Facebookissa]].
 	
-languages: 
-keep-ts: 1354029486
-ts: 1354029486
+lastmajor: 10
+host: localhost.localdomain
+username: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; TaTSilla on myös <strong class="changes">ryhmä Facebookissa</strong><br />&lt; [[https://www.facebook.com/groups/127354027377/|ryhmä Facebookissa<strong class="changes">]]</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; TaTSilla on myös<br />&gt; [[https://www.facebook.com/groups/127354027377/|ryhmä Facebookissa<strong class="changes">]].</strong></p></div>
-username: 
-lastmajor: 10
+revision: 10
+ts: 1354029486
 summary: 
+languages: 
+diff-major: 1
+minor: 
+ip: 127.0.0.1
+keep-ts: 1354029486

@@ -10,79 +10,127 @@ and open the template in the editor.
 
 a.logo {
     float: left;
-    margin: 0.4em 1em;
+    margin: 6px 10px;
     padding: 0;
 }
 
-.wrapper, .header {
-    max-width: 1000px;
+.wrapper, .header, .error {
+    max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
     left: 0;
     right: 0;
 }
 
-.header {
-    position: fixed;
-    top: 0;
-    z-index: 2;
-    background-color: #fbfb30;
-    background-repeat: repeat;
-    width: 99%;
-    height: 120px;
-    border-color: #c04700;
-    border-style: solid;
-    border-width: 0 2px 2px 2px;
-    border-bottom-left-radius: 70px 60px;
-    border-bottom-right-radius: 50% 100%;
-}
-
-.wrapper {
-    height: auto;
-    position: relative;
+.wrapper, .error {
+    top: 103px;
     background-color: #FFFFFF;
-    top: 135px;
     line-height: 1.4;
-    background: none;
-    border-left: 0px solid #c04700;
-    border-right: 0px solid #c04700;
+    border-left: 2px solid #c04700;
+    border-right: 2px solid #c04700;
     padding-bottom: 15px;
 }
 
-div.header h1 {
-    display: none;
+div.header {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    background-color: #fbfa7d;
+    background-repeat: repeat;
+    height: 101px;
+    border-color: #c04700;
+    border-style: solid;
+    border-width: 0 2px 2px 2px;
+    /*border-bottom-left-radius: 70px 60px;
+    border-bottom-right-radius: 70px 60px;*/
 }
+
+    div.header:before {
+        font-family: "Architects Daughter";
+        font-weight: normal;
+        font-size: 37px;
+        content: 'Tampereen Teekkareiden Sirkuskerho';
+        line-height: 55px;
+        color: #444444;
+        /*text-shadow: 2px 2px #000000;*/
+    }
+
+    div.header h1 {
+        display: none;
+    }
+
+    div.header span.gotobar {
+        bottom: 0;
+        right: 0;
+        margin-left: 2px;
+        left: 150px;
+        position: absolute;
+        font-size: 12px;
+    }
+
+        div.header span.gotobar a {
+            font-size: 13px;
+            display: inline-block;
+            margin-left: -6px;
+            margin-right: 8px;
+            border-width: 2px;
+            border-bottom: 0;
+            border-color: #76a543;
+            border-style: solid;
+            background-color: #daff8c;
+            text-shadow: none;
+            transition: background-color 0.25s linear,
+                        border-color 0.25s linear,
+                        color 0.25s linear;
+        }
+
+        div.header span.gotobar a:hover,
+        div.header span.gotobar a:active,
+        div.header span.gotobar a.selected {
+            background-color: #ffd970;
+            border-color: #c04700;
+            color: #252222;
+            z-index: 3;
+        }
 
 div.content {
     top: 0;
-    background: #fbffdf;
+    /*background: #fbffdf;
     border-radius: 40px;
-    border: #c04700 solid 2px;
+    border: #c04700 solid 2px;*/
     position: relative;
     padding: 10px 20px;
     margin-left: 3px;
     overflow: hidden;
     margin-right: 3px;
     left: 0;
+    min-height: 100%;
+}
+
+div.wrapper {
+    min-height: 100%;
+    position: absolute;
 }
 
 div.content .crossbar {
     position: relative;
-    display: inline-block;
+    display: block;
     float: right;
-    width: 270px;
+    width: 300px;
     min-height: 100px;
     height: auto;
+    padding-top: 10px;
+
 }
 
 div.content .crossbar > div {
-    display: block;
+    /*display: block;
     width: 270px;
     min-height: 200px;
     border-left: #c04700 solid 2px;
     border-bottom: #c04700 solid 2px;
     border-bottom-left-radius: 10px;
-    margin-bottom: 18px;
+    margin-bottom: 18px;*/
 }
 
 /*div.wrapper > div.crossbar {
@@ -110,10 +158,25 @@ div.content .crossbar > div {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100% !important;
+    height: 100% !important;
 }
 
+#fb-root {
+    display: none;
+}
+
+.fb-like-box,
+.fb-like-box span,
+.fb-like-box span iframe[style] {
+    width: 100% !important;
+}
+
+div.header .fb-like {
+    position: absolute;
+    right: 10px;
+    top: 4px;
+}
 
 div.header br,
 div.footer br,

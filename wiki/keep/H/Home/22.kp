@@ -1,0 +1,24 @@
+summary: 
+host: localhost.localdomain
+keep-ts: 1387985864
+lastmajor: 22
+revision: 22
+text: =Welcome to the homepage of TaTSi=
+	
+	TaTSi (Tampereen Teekkareiden Sirkuskerho) is a circus club for the people studying or working in the upper secondary schools in Tampere (TUT, UTA, TAMK). Our aim is to make circus as a sport known in Tampere.
+	
+	Huom! Tämä sivusto ei sisällä uutisia, vaan enimmäkseen staattista tietoa. Jos haluat ajankohtaisempaa tietoa kerhon toiminnasta, liity [[https://listmail.tut.fi/mailman/listinfo/tatsi-pellet|tatsi-pellet sähköpostilistalle]] tai [[http://www.facebook.com/group.php?gid=127354027377|TaTSin Facebook-ryhmään]].
+	
+	*[[Sitemap]]
+	*[[Contact]]
+	*[[FAQ]]
+	
+	<html>
+	<div class="fb-like-box" data-href="http://www.facebook.com/FacebookDevelopers" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="true" data-show-border="true"></div>
+	</html>
+	
+ip: 127.0.0.1
+username: 
+languages: 
+ts: 1387985721
+minor: 

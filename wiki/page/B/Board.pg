@@ -1,8 +1,9 @@
-username: 
-summary: TaTSin nykyinen hallitus (2012) ja yhteystiedot: |=Titteli|=Nimi|=sähköposti| |**Puheenjohtaja:**|Miia Ollila|etunimi.sukunimi@tut.fi| . . .
-lastmajor: 1
+revision: 1
 ts: 1385649882
+summary: TaTSin nykyinen hallitus (2012) ja yhteystiedot: |=Titteli|=Nimi|=sähköposti| |**Puheenjohtaja:**|Miia Ollila|etunimi.sukunimi@tut.fi| . . .
 languages: 
+minor: 
+ip: 127.0.0.1
 text: TaTSin nykyinen hallitus (2012) ja yhteystiedot:
 	
 	|=Titteli|=Nimi|=sähköposti|
@@ -13,7 +14,6 @@ text: TaTSin nykyinen hallitus (2012) ja yhteystiedot:
 	|**Hallituksen jäsen:**|Tommi Henttinen|etunimi.sukunimi@tut.fi|
 	
 	
-minor: 
+lastmajor: 1
 host: localhost.localdomain
-ip: 127.0.0.1
-revision: 1
+username: 

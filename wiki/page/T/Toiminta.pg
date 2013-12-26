@@ -1,15 +1,15 @@
+ip: 127.0.0.1
+minor: 
 languages: 
 ts: 1354019296
+summary: Treenit Keikat Kurssit
+revision: 1
+username: 
+host: localhost.localdomain
+lastmajor: 1
 text: [[Treenit]]
 	
 	[[Keikat]]
 	
 	[[Kurssit]]
 	
-summary: Treenit Keikat Kurssit
-lastmajor: 1
-username: 
-revision: 1
-host: localhost.localdomain
-ip: 127.0.0.1
-minor: 

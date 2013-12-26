@@ -1,22 +1,26 @@
-username: 
-ip: 127.0.0.1
 summary: 
 languages: 
+ip: 127.0.0.1
+lastmajor: 27
 text: =Activities and events=
 	
-	So what do we do at TaTSi? Read further to find out.
+	Because TaTSi is a subdivision of TUT sports organisation TUrVoKe, our activities are mostly located at TUT and in Hervanta. So what do we do at TaTSi? Read further to find out.
 	
 	==Training sessions==
 	
 	We have training sessions at Tamppi Areena and in Bommari (the bomb shelter) at Tampere University of Technology.
 	
-	
-	
 	==Gigs==
+	
+	
 	
 	==Courses==
 	
+	We organise beginners' courses in autumn (usually from October to December). 
+	
 	==Calendar==
+	
+	Here's a calendar of our activities.
 	
 	<html>
 	<div class="iframe-wrapper">
@@ -24,9 +28,9 @@ text: =Activities and events=
 	</div>
 	</html>
 	
-lastmajor: 25
-ts: 1386534987
-host: localhost.localdomain
 minor: 
-revision: 25
-keep-ts: 1386535280
+ts: 1386535298
+keep-ts: 1387987051
+host: localhost.localdomain
+revision: 27
+username: 

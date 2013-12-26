@@ -1,9 +1,17 @@
+minor: 
+ip: 127.0.0.1
+keep-ts: 1354025182
+diff-major: 1
+languages: 
+revision: 2
 ts: 1354025182
+summary: TaTSia voi pyytää erilaisiin tapahtumiin ja tilaisuuksiin esiintymään tai opettamaan sirkustemppuja. Kerhon pienuudesta johtuen esiintyjäjoukkoa on . . .
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt;     Opetus ja muu pitkäkestoinen: 15 €/<strong class="changes">henkilö</strong>/tunti<br />&lt;     Esitykset: 20 €/henkilö + tulilisä 10 €/<strong class="changes">henkilö</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt;     Opetus ja muu pitkäkestoinen: 15 €/<strong class="changes">esiintyjä</strong>/tunti<br />&gt;     Esitykset: 20 €/henkilö + tulilisä 10 €/<strong class="changes">esiintyjä</strong></p></div>
-keep-ts: 1354025182
-languages: 
+username: 
+lastmajor: 2
+host: localhost.localdomain
 text: TaTSia voi pyytää erilaisiin tapahtumiin ja tilaisuuksiin esiintymään tai opettamaan sirkustemppuja. Kerhon pienuudesta johtuen esiintyjäjoukkoa on joskus vaikea saada kokoon, emmekä yleensä ehdi suunnittelemaan kovin yhtenäistä esitystä.
 	Opetus järjestetään mieluiten sisätiloissa ja tilan olisi hyvä olla normaalia huonetta korkeampi heittojen takia, mutta se ei kuitenkaan ole välttämätöntä.
 	
@@ -107,11 +115,3 @@ text: TaTSia voi pyytää erilaisiin tapahtumiin ja tilaisuuksiin esiintymään 
 	24.4.2005 TaTSin Wappusirkustelu Koskipuistossa, Wappupicnic
 	- Vapaamuotoista sirkustelua ja jonglöörauskilpailu
 	
-username: 
-lastmajor: 2
-summary: TaTSia voi pyytää erilaisiin tapahtumiin ja tilaisuuksiin esiintymään tai opettamaan sirkustemppuja. Kerhon pienuudesta johtuen esiintyjäjoukkoa on . . .
-diff-major: 1
-host: localhost.localdomain
-ip: 127.0.0.1
-revision: 2
-minor: 

@@ -1,4 +1,13 @@
+minor: 
+ts: 1386536960
+ip: 127.0.0.1
+host: localhost.localdomain
+lastmajor: 3
+flags: 0
 keep-ts: 1386536960
+diff-major: 1
+username: 
+blocks: <h1>Frequently Asked Questions</h1><h2>When was TaTSi founded?</h2><p>16.3.2005.</p><h2>Why is all your information in English?</h2><p>- We have a growing number of members that don't speak Finnish. - Using both Finnish and English is too much work for a small club like TaTSi</p><h2>I study at another upper secondary school in Tampere. Can I join your training sessions?</h2><p>Thank's to unipoli, students of TAMK and UTA are now welcome to our trainings. Check more information here:...</p>
 text: =Frequently Asked Questions=
 	
 	==When was TaTSi founded?==
@@ -18,18 +27,7 @@ text: =Frequently Asked Questions=
 	
 	
 revision: 3
-blocks: <div class="crossbar"><html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
-	</html>
-	</div><h1>Frequently Asked Questions</h1><h2>When was TaTSi founded?</h2><p>16.3.2005.</p><h2>Why is all your information in English?</h2><p>- We have a growing number of members that don't speak Finnish. - Using both Finnish and English is too much work for a small club like TaTSi</p><h2>I study at another upper secondary school in Tampere. Can I join your training sessions?</h2><p>Thank's to unipoli, students of TAMK and UTA are now welcome to our trainings. Check more information here:...</p>
-flags: 0
-languages: 
-host: localhost.localdomain
-ts: 1386536960
 summary: 
-ip: 127.0.0.1
-lastmajor: 3
-username: 
-diff-major: 1
-minor: 
+languages: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; =Frequently Asked Questions=</p></div>

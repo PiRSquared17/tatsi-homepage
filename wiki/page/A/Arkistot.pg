@@ -1,20 +1,20 @@
+lastmajor: 5
+host: localhost.localdomain
 text: TaTSin arkistoista löydät vanhoja juttuja ja tärkeitä dokumentteja.
 	
 	*[[Vanhat hallitukset]]
 	*[[Pöytäkirjat]]
 	*[[Säännöt|TaTSin säännöt]]
 	
-languages: 
-keep-ts: 1354029090
+username: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; *[[<strong class="changes">Hallitukset</strong>]]</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; *[[<strong class="changes">Vanhat hallitukset</strong>]]</p></div>
-ts: 1354029090
-username: 
-summary: 
-lastmajor: 5
-ip: 127.0.0.1
-revision: 5
-host: localhost.localdomain
 diff-major: 1
+languages: 
+revision: 5
+ts: 1354029090
+summary: 
 minor: 
+ip: 127.0.0.1
+keep-ts: 1354029090

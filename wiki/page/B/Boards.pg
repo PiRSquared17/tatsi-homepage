@@ -1,11 +1,11 @@
-minor: 
-diff-major: 1
-revision: 2
-host: localhost.localdomain
-ip: 127.0.0.1
-username: 
-lastmajor: 2
 summary: Tällä sivulla on luettelonomaisesti esitelty TaTSin hallitukset. [[Hallitus|Nykyisen hallituksen tiedot löydät sen omalta sivulta]] ==Vuoden . . .
+ts: 1385649847
+revision: 2
+languages: 
+diff-major: 1
+keep-ts: 1385649847
+minor: 
+ip: 127.0.0.1
 text: The past boards of trustees are listed on this page.
 	
 	[[Board|Information about the current board of trustees in on its own page]]
@@ -79,7 +79,8 @@ text: The past boards of trustees are listed on this page.
 	|**Treasurer:**|Hannele Leskinen|
 	|**Secretary:**|Jarkko Peltola|
 	
-ts: 1385649847
+host: localhost.localdomain
+lastmajor: 2
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Tällä sivulla</strong> on <strong class="changes">luettelonomaisesti esitelty TaTSin hallitukset</strong>.<br />&lt; [[<strong class="changes">Hallitus</strong>|<strong class="changes">Nykyisen hallituksen tiedot löydät sen omalta sivulta</strong>]]<br />&lt; ==<strong class="changes">Vuoden</strong> 2011 <strong class="changes">hallitus</strong>==</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">The past boards of trustees are listed</strong> on <strong class="changes">this page</strong>.<br />&gt; [[<strong class="changes">Board</strong>|<strong class="changes">Information about the current board of trustees in on its own page</strong>]]<br />&gt; ==<strong class="changes">Board 2012==<br />&gt; |**Puheenjohtaja:**|Miia Ollila|<br />&gt; |**Varapuheenjohtaja:**|Petteri Tolonen|<br />&gt; |**Sihteeri:**|Antti Saarinen|<br />&gt; |**Akrobatiavastaava:** |Mikke Tanska|<br />&gt; |**Hallituksen jäsen:**|Tommi Henttinen|<br />&gt; |**Hallituksen jäsen:**|Oskari Helminen|<br />&gt; ==</strong>2011==</p></div><p><strong>Changed:</strong></p>
@@ -91,5 +92,4 @@ diff-minor: <p><strong>Changed:</strong></p>
 	<div class="new"><p>&gt; ==2008==<br />&gt; |**<strong class="changes">Chairman</strong>:**|Minna Vittaniemi|<br />&gt; |**<strong class="changes">Treasurer</strong>, <strong class="changes">IT</strong>-<strong class="changes">functionary</strong>:**|Arto Liukkonen|<br />&gt; |**<strong class="changes">Secretary</strong>:**|Petteri Tolonen|<br />&gt; |**<strong class="changes">Acrobacy-functionary</strong>:**|Kauko Östman|<br />&gt; |**<strong class="changes">Member</strong>:**|Jarkko Peltola|<br />&gt; |**<strong class="changes">Member</strong>:**|Pyry Lehtimäki|<br />&gt; ==<strong class="changes">Board</strong> 2007==<br />&gt; |**<strong class="changes">Chairman</strong>:**|Ossi Sandberg|<br />&gt; |**<strong class="changes">Treasurer</strong>:**|Minna Vittaniemi|<br />&gt; |**<strong class="changes">Secretary</strong>, <strong class="changes">Akrobatcy-functionary</strong>:**|Kauko Östman|<br />&gt; |**<strong class="changes">IT</strong>-<strong class="changes">functionary</strong>:**|Arto Liukkonen|<br />&gt; ==<strong class="changes">Board</strong> 2006==</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; ==<strong class="changes">Vuoden</strong> 2006 <strong class="changes">toimarit</strong>==<br />&lt; |**<strong class="changes">Akrobatia</strong>-<strong class="changes">toimari</strong>:**|Kauko Östman|<br />&lt; |**<strong class="changes">ATK</strong>-<strong class="changes">toimari</strong>:**|Juha Tiitinen|<br />&lt; == <strong class="changes">Vuoden</strong> 2005 <strong class="changes">hallitus</strong>==<br />&lt; |**<strong class="changes">Puheenjohtaja</strong>:**|Tiina Lappalainen|<br />&lt; |**<strong class="changes">Talousvastaava</strong>:**|Hannele Leskinen|<br />&lt; |**<strong class="changes">Sihteeri</strong>:**|Jarkko Peltola|</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; ==<strong class="changes">Functionaries</strong> 2006==<br />&gt; |**<strong class="changes">Akrobacy</strong>-<strong class="changes">functionary</strong>:**|Kauko Östman|<br />&gt; |**<strong class="changes">IT</strong>-<strong class="changes">functionary</strong>:**|Juha Tiitinen|<br />&gt; == 2005 ==<br />&gt; |**<strong class="changes">Chairman</strong>:**|Tiina Lappalainen|<br />&gt; |**<strong class="changes">Treasurer</strong>:**|Hannele Leskinen|<br />&gt; |**<strong class="changes">Secretary</strong>:**|Jarkko Peltola|</p></div>
-languages: 
-keep-ts: 1385649847
+username: 

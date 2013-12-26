@@ -1,3 +1,9 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">|</strong>Titteli<strong class="changes">|</strong>Nimi<strong class="changes">|</strong>sähköposti|</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">|=</strong>Titteli<strong class="changes">|=</strong>Nimi<strong class="changes">|=</strong>sähköposti|</p></div>
+username: 
+lastmajor: 4
+host: localhost.localdomain
 text: TaTSin nykyinen hallitus (2012) ja yhteystiedot:
 	
 	|=Titteli|=Nimi|=sähköposti|
@@ -9,17 +15,11 @@ text: TaTSin nykyinen hallitus (2012) ja yhteystiedot:
 	
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">|</strong>Titteli<strong class="changes">|</strong>Nimi<strong class="changes">|</strong>sähköposti|</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">|=</strong>Titteli<strong class="changes">|=</strong>Nimi<strong class="changes">|=</strong>sähköposti|</p></div>
-ts: 1354029709
-languages: 
-keep-ts: 1354029709
-lastmajor: 4
-username: 
-summary: TaTSin nykyinen hallitus ja yhteystiedot: 
-diff-major: 1
-host: localhost.localdomain
-ip: 127.0.0.1
-revision: 4
 minor: 
+ip: 127.0.0.1
+keep-ts: 1354029709
+diff-major: 1
+languages: 
+revision: 4
+ts: 1354029709
+summary: TaTSin nykyinen hallitus ja yhteystiedot: 

@@ -1,14 +1,17 @@
+keep-ts: 1354035335
+ip: 127.0.0.1
+minor: 
 summary: Welcome to TaTSi's homepage. TaTSi is a circus club for students of Tampere university of technology. **Obs.!** This site only provides static . . .
-lastmajor: 4
-username: 
 ts: 1354035335
+revision: 4
+languages: 
+diff-major: 1
+username: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; **Equipment training** (with balls, clubs, diabolos etc<strong class="changes">.):</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; **Equipment training** (with balls, clubs, diabolos etc<strong class="changes">.):\\</strong></p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; **Acrobacy<strong class="changes">**</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; **Acrobacy<strong class="changes">:**\\</strong></p></div>
-keep-ts: 1354035335
-languages: 
 text: Welcome to TaTSi's homepage. TaTSi is a circus club for students of Tampere university of technology.
 	
 	**Obs.!** This site only provides static information about TaTSi. If you want more current information about TaTSi's activities, please join the tatsi-pellet mailing list or TaTSi's Facebook group.
@@ -37,8 +40,5 @@ text: Welcome to TaTSi's homepage. TaTSi is a circus club for students of Tamper
 	[[http://jugglinglab.sourceforge.net/|JugglingLab siteswap simulator]]\\
 	[[http://news.bbc.co.uk/2/hi/health/3417045.stm|BBC News - Juggling can boost brain power]]\\
 	
-minor: 
-diff-major: 1
-ip: 127.0.0.1
-revision: 4
 host: localhost.localdomain
+lastmajor: 4

@@ -1,11 +1,11 @@
-username: 
+revision: 10
 summary: 
-lastmajor: 10
-keep-ts: 1354028370
-languages: 
 ts: 1354028370
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[http://en.wikipedia.org/wiki/Cigar_box_%28juggling%29|Sikarilaatikot]] \\</p></div>
+languages: 
+diff-major: 1
+ip: 127.0.0.1
+minor: 
+keep-ts: 1354028370
 text: ==Mitkä ihmeen sirkuslajit?==
 	
 	Sirkuksesta tulee varmasti usimmille mieleen klovnit, sirkuseläimet, trapetsitaiteilijat, ja toivottavasti myös jongleeraus ja akrobatia. Sirkuslajeihin voi ajatella kuuluvaksi kaiken viihdyttävän, taiteellisen taituroinnin, joka ei kuulu muiden harrastusten piirin. Me TaTSissa emme ole kovinkaan ryppyotsaisia sen suhteen, mitä sirkuslajit ovat. Toivotamme tervetulleiksi mukaan kaikki kynänpyörittelijöistä leijonankesyttäjiin.
@@ -24,8 +24,8 @@ text: ==Mitkä ihmeen sirkuslajit?==
 	[[http://en.wikipedia.org/wiki/Slackline|Slackline]] \\
 	[[http://en.wikipedia.org/wiki/Cigar_box_%28juggling%29|Sikarilaatikot]] \\
 	
-minor: 
-ip: 127.0.0.1
-revision: 10
+lastmajor: 10
 host: localhost.localdomain
-diff-major: 1
+username: 
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[http://en.wikipedia.org/wiki/Cigar_box_%28juggling%29|Sikarilaatikot]] \\</p></div>

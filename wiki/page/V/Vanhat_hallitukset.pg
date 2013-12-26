@@ -1,9 +1,9 @@
-host: localhost.localdomain
-ip: 127.0.0.1
 revision: 1
-minor: 
 ts: 1354029096
+summary: Tällä sivulla on luettelonomaisesti esitelty TaTSin hallitukset. [[Hallitus|Nykyisen hallituksen tiedot löydät sen omalta sivulta]] ==Vuoden . . .
 languages: 
+minor: 
+ip: 127.0.0.1
 text: Tällä sivulla on luettelonomaisesti esitelty TaTSin hallitukset.
 	
 	[[Hallitus|Nykyisen hallituksen tiedot löydät sen omalta sivulta]]
@@ -67,6 +67,6 @@ text: Tällä sivulla on luettelonomaisesti esitelty TaTSin hallitukset.
 	|**Talousvastaava:**|Hannele Leskinen|
 	|**Sihteeri:**|Jarkko Peltola|
 	
-summary: Tällä sivulla on luettelonomaisesti esitelty TaTSin hallitukset. [[Hallitus|Nykyisen hallituksen tiedot löydät sen omalta sivulta]] ==Vuoden . . .
 lastmajor: 1
+host: localhost.localdomain
 username: 

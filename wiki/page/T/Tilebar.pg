@@ -1,16 +1,18 @@
-lastmajor: 2
-summary: <html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" . . .
+keep-ts: 1387524684
+minor: 
+ip: 127.0.0.1
+ts: 1387524684
+summary: 
+revision: 3
+languages: 
+diff-major: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &lt;html&gt;<strong class="changes"></strong>&lt;div class="fb-<strong class="changes">like-box</strong>" data-<strong class="changes">href</strong>="<strong class="changes">http</strong>://www.facebook.com/tatsi.circus" data-<strong class="changes">width</strong>="<strong class="changes">270</strong>" data-colorscheme="light" data-<strong class="changes">show-faces="true" data-</strong>header="<strong class="changes">false" data-stream="false" data-show-border="false</strong>"&gt;&lt;/div&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;html&gt;<strong class="changes"><br />&gt; </strong>&lt;div class="fb-<strong class="changes">activity</strong>" data-<strong class="changes">app-id</strong>="<strong class="changes">https</strong>://www.facebook.com/tatsi.circus" data-<strong class="changes">site</strong>="<strong class="changes">developers.facebook.com</strong>" data-colorscheme="light" data-header="<strong class="changes">true</strong>"&gt;&lt;/div&gt;</p></div>
 username: 
-text: <html><div class="fb-like-box" data-href="http://www.facebook.com/tatsi.circus" data-width="270" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+text: <html>
+	<div class="fb-activity" data-app-id="https://www.facebook.com/tatsi.circus" data-site="developers.facebook.com" data-colorscheme="light" data-header="true"></div>
 	</html>
 	
-ts: 1386537067
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;div&gt;&lt;/div&gt;</p></div>
-languages: 
-keep-ts: 1386537067
-minor: 
-diff-major: 1
 host: localhost.localdomain
-ip: 127.0.0.1
-revision: 2
+lastmajor: 3
