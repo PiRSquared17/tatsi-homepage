@@ -16,34 +16,16 @@ and open the template in the editor.
     }
 }
 
-@media (max-width: 799px) {
+@media (max-width: 839px) {
 
 
     div.header:before {
         line-height: 64px;
-        font-size: 28px;
+        font-size: 31px;
     }
 
     div.header span.gotobar {
         white-space: nowrap;
-    }
-
-    div.content, div.sidebar {
-        width: auto;
-        left: 0;
-        right: 0;
-        margin: 0px 3px;
-        border-radius: 30px;
-    }
-
-    div.crossbar {
-        position: absolute;
-        bottom: 0;
-        height: 70px;
-        margin-top: 8px;
-    }
-
-    div.header span.gotobar {
         left: 130px;
     }
 
@@ -56,31 +38,36 @@ and open the template in the editor.
         padding-left: 15px;
         padding-right: 15px;
     }
-    div.header:before {
-        font-size: 31px;
-    }
 
 }
 
-@media (max-width: 760px) {
+@media (max-width: 800px) {
+
     div.header .fb-like {
-        display: none;
+        margin-bottom: 58px;
+    }
+
+    div.header:before {
+        font-size: 27px;
+
     }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 755px) {
+    div.header:before {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 720px) {
+
+    div.header .fb-like {
+        margin-bottom: 35px;
+    }
 
     div.header span.gotobar a {
         margin-right: 0px;
     }
-
-    div.header:before {
-        margin-left: 6px;
-        font-size: 28px;
-    }
-}
-
-@media (max-width: 630px) {
 
     a.logo {
         margin-left: 8px;
@@ -100,7 +87,6 @@ and open the template in the editor.
     }
 
     div.header:before {
-        margin-left: 30px;
         line-height: 34px;
         font-size: 21px;
     }
@@ -114,27 +100,41 @@ and open the template in the editor.
     }
 }
 
-@media (max-width: 580px) {
-
+@media (max-width: 610px) {
     a.logo {
-        position: absolute;
-        left: 50%;
-        margin-left: -202px;
+        margin-right: 5px;
     }
-
     img.logo {
         width: 25px;
         height: 22px;
     }
 
-    div.header {
-        text-align: center;
+    div.header:before {
+        font-size: 20px;
+        line-height: 34px;
+
     }
 
-    div.header:before {
-        font-size: 21px;
-        line-height: 34px;
-        margin-left: 36px;
+    div.header span.gotobar {
+        left: 10px;
+    }
+
+    div.header span.gotobar a {
+        font-size: 12px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 539px) {
+
+    a.logo {
+        position: absolute;
+        left: 50%;
+        margin-left: -230px;
+    }
+
+    div.header {
+        text-align: center;
     }
 
     div.header span.gotobar {
@@ -145,12 +145,17 @@ and open the template in the editor.
     }
 
     div.header span.gotobar a {
-        font-size: 12px;
+        margin-right: 0;
+    }
+
+    div.header:before {
+        content: 'TaTSi - Academic circus club';
+        margin-left: -110px;
     }
 
 }
 
-@media (max-width: 470px) {
+@media (max-width: 474px) {
 
     a.logo {
         margin-left: -192px;
@@ -161,15 +166,15 @@ and open the template in the editor.
     }
 
     div.header:before {
-        font-size: 20px;
+        margin-left: -48px;
     }
 
 }
 
-@media (max-width: 399px) {
+@media (max-width: 422px) {
 
     a.logo {
-        margin-left: -108px;
+        margin-left: -152px;
     }
 
     div.header span.gotobar a:first-child {
@@ -177,11 +182,13 @@ and open the template in the editor.
     }
 
     div.header:before {
-        content: 'TaTSi - circus club';
+        content: 'TaTSi - Circus club';
+        margin-left: -60px;
     }
+
 }
 
-@media (max-width: 350px) {
+@media (max-width: 370px) {
     div.header span.gotobar > a:last-of-type {
         display: none;
     }

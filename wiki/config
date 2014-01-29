@@ -1,6 +1,6 @@
 package OddMuse;
 $SiteName  = "TaTSi - Tampereen Teekkareiden Sirkuskerho";
-$HomePage = "Home";
+$HomePage = "TaTSi";
 $AdminPass = 'qwer';
 $EditPass = 'asdf';
 $SurgeProtection = 0;
@@ -11,7 +11,7 @@ $UploadAllowed = 0;
 @UploadTypes = ();
 $LogoUrl = '/img/tatsi_logo_m.png';
 $StyleSheet = '/style/tatsi.css';
-@UserGotoBarPages = ('Home', 'Activities', 'Contact', 'FAQ', 'Sitemap', 'Archives');
+@UserGotoBarPages = ('TaTSi', 'Activities', 'Membership', 'Contact', 'Sitemap', 'FAQ');
 $RecentLink = 0;
 $HtmlHeaders = '<link rel="shortcut icon" href="http://www.students.tut.fi/~tatsi/favicon.ico" type="image/x-icon" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" />

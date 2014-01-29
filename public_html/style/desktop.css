@@ -48,10 +48,11 @@ div.header {
     div.header:before {
         font-family: "Architects Daughter";
         font-weight: normal;
-        font-size: 37px;
-        content: 'Tampereen Teekkareiden Sirkuskerho';
-        line-height: 55px;
+        font-size: 36px;
+        content: 'TaTSi - Academic circus club of Tampere';
+        line-height: 68px;
         color: #444444;
+        margin-left: 4px;
         /*text-shadow: 2px 2px #000000;*/
     }
 
@@ -63,16 +64,17 @@ div.header {
         bottom: 0;
         right: 0;
         margin-left: 2px;
-        left: 150px;
+        left: 130px;
         position: absolute;
         font-size: 12px;
     }
 
         div.header span.gotobar a {
+            z-index: 0;
             font-size: 13px;
             display: inline-block;
             margin-left: -6px;
-            margin-right: 8px;
+            margin-right: 14px;
             border-width: 2px;
             border-bottom: 0;
             border-color: #76a543;
@@ -90,7 +92,7 @@ div.header {
             background-color: #ffd970;
             border-color: #c04700;
             color: #252222;
-            z-index: 3;
+            z-index: 1;
         }
 
 div.content {
@@ -175,7 +177,7 @@ div.content .crossbar > div {
 div.header .fb-like {
     position: absolute;
     right: 10px;
-    top: 4px;
+    bottom: 4px;
 }
 
 div.header br,
