@@ -14,16 +14,19 @@ a.logo {
     padding: 0;
 }
 
-.wrapper, .header, .error {
-    max-width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
-    left: 0;
-    right: 0;
+div.wrapper, .header, .error {
+    display: block;
+    text-align: left;
+    width: 1020px;
+    left: 50%;
+    margin-left: -512px;
+    
 }
 
-.wrapper, .error {
+div.wrapper {
+    position: absolute;
     top: 103px;
+    min-height: 100%;
     background-color: #FFFFFF;
     line-height: 1.4;
     border-left: 2px solid #c04700;
@@ -41,8 +44,6 @@ div.header {
     border-color: #c04700;
     border-style: solid;
     border-width: 0 2px 2px 2px;
-    /*border-bottom-left-radius: 70px 60px;
-    border-bottom-right-radius: 70px 60px;*/
 }
 
     div.header:before {
@@ -108,45 +109,6 @@ div.content {
     left: 0;
     min-height: 100%;
 }
-
-div.wrapper {
-    min-height: 100%;
-    position: absolute;
-}
-
-div.content .crossbar {
-    position: relative;
-    display: block;
-    float: right;
-    width: 300px;
-    min-height: 100px;
-    height: auto;
-    padding-top: 10px;
-
-}
-
-div.content .crossbar > div {
-    /*display: block;
-    width: 270px;
-    min-height: 200px;
-    border-left: #c04700 solid 2px;
-    border-bottom: #c04700 solid 2px;
-    border-bottom-left-radius: 10px;
-    margin-bottom: 18px;*/
-}
-
-/*div.wrapper > div.crossbar {
-    display: block;
-    overflow: hidden;
-    position: absolute;
-    right: 15px;
-    width: 280px;
-    height: 300px;
-    background: #fbffdf;
-    border-radius: 40px;
-    border: #c04700 solid 2px;
-    padding-left: 15px;
-}*/
 
 /* Responsive iFrame */
 .iframe-wrapper {

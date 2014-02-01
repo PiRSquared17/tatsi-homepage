@@ -13,6 +13,10 @@ and open the template in the editor.
     div.header, div.wrapper {
         border-left: 0;
         border-right: 0;
+        left:0;
+        right:0;
+        margin: 0 auto;
+        width: 100%;
     }
 }
 
@@ -82,7 +86,7 @@ and open the template in the editor.
         height: 70px;
     }
 
-    .wrapper {
+    div.wrapper {
         top: 72px;
     }
 
